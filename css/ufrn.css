@@ -1,0 +1,121 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin-bottom: 70px;
+}
+
+.search-image-border {
+    border-top: 10px solid #0095DB;
+}
+
+.main-title {
+    color: #fff;
+    text-shadow: 2px 2px 5px #000;
+    font-weight: bold;
+}
+
+.text-value a {
+    text-decoration: none;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    line-height: 18px;
+    height: 70px;
+    background-color: #164194;
+    color: #fff;
+    display: flex;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.footer .container{
+    display: flex;
+    align-items: center;
+}
+
+
+
+.panel {
+  box-shadow: 0 2px 0 rgba(0,0,0,0.05);
+  border-radius: 0;
+  border: 0;
+  margin-bottom: 24px;
+  margin-top:20px;
+}
+
+.panel-dark.panel-colorful {
+  background-color: #3b4146;
+  border-color: #3b4146;
+  color: #fff;
+}
+
+.panel-danger.panel-colorful {
+  background-color: #f76c51;
+  border-color: #f76c51;
+  color: #fff;
+}
+
+.panel-primary.panel-colorful {
+  background-color: #0095DB;
+  border-color: #0095DB;
+  color: #fff;
+}
+
+.panel-info.panel-colorful {
+  background-color: #4ebcda;
+  border-color: #4ebcda;
+  color: #fff;
+}
+
+.panel-body {
+  padding: 25px 20px;
+}
+
+.panel hr {
+  border-color: rgba(0,0,0,0.1);
+}
+
+.mar-btm {
+  margin-bottom: 15px;
+}
+
+h2, .h2 {
+  font-size: 28px;
+}
+
+.small, small {
+  font-size: 85%;
+}
+
+.text-sm {
+  font-size: .9em;
+}
+
+.text-thin {
+  font-weight: 300;
+}
+
+.text-semibold {
+  font-weight: 600;
+}
+
+.logo-flex {
+    display: flex;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+.sisbi-title {    
+    line-height: 5.5px;
+    margin-left: 10px;
+    padding-top: 7px;
+}
+
+.sisbi-p {
+      font-weight: bold;
+      font-size: 13pt;
+}
